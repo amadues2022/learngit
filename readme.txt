@@ -1,2 +1,2 @@
 git a 
-git b
+git is useful
